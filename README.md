@@ -1,7 +1,7 @@
 ### Hi, my name is Dmitrii 👋
-#### I am a student of Prague University of Economics and Business
+#### I am a Data Analyst from Czech Republic
 
-Skills: Python / Java / SQL / Excel / Power BI
+Skills: Python / R / Java / SQL / Excel / Power BI 
 
 
 
